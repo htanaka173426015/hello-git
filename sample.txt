@@ -2,8 +2,10 @@ sample
 good!
 good!
 hi
+go
 
 OK
+good!
 good!
 good!
 good!
